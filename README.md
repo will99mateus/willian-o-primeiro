@@ -5,5 +5,5 @@
 Para rodar o projeto nessa maquina, favor digite:
 
 ```
-rpm install
+node app.js
 ```
